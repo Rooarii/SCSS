@@ -1,0 +1,17 @@
+@import "./variables";
+
+nav {
+    background: $mainColor;
+    color: white;
+}
+section{
+    div{
+        height: 150px;
+        width: 150px;
+        border: solid 10px $secondColor;
+        border-radius: 50%;
+        .darkRing{
+            border: solid 10px $thirdColor;
+        }
+    }
+}

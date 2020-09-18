@@ -1,0 +1,16 @@
+nav {
+  background: #EF5E16;
+  color: white;
+}
+
+section div {
+  height: 150px;
+  width: 150px;
+  border: solid 10px #F5CA16;
+  border-radius: 50%;
+}
+
+section div .darkRing {
+  border: solid 10px #343434;
+}
+/*# sourceMappingURL=style.css.map */
